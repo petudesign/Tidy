@@ -147,3 +147,19 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode local state and build output
+DerivedData/
+build/
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.app/
